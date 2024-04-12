@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+
+.listado{
+    color: rgb(31, 18, 171);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.parrafo{
+    color: rgb(38, 130, 195);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.img{
+    height: 300px;
+    width: 500px;
+}
