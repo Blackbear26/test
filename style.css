@@ -17,3 +17,8 @@ body{
     height: 300px;
     width: 500px;
 }
+
+.link{
+    font-size: larger;
+    color: brown;
+}
