@@ -1,24 +1,24 @@
-body{
+body {
     background-color: bisque;
 }
 
-.listado{
+.listado {
     color: rgb(31, 18, 171);
     font-family: 'Times New Roman', Times, serif;
 }
 
-.parrafo{
+.parrafo {
     color: rgb(38, 130, 195);
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
 
-.img{
+.img {
     height: 300px;
     width: 500px;
 }
 
-.link{
+.link {
     font-size: larger;
     color: brown;
 }
